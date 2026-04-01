@@ -1,0 +1,21 @@
+.card{
+    background-color: #66c2a5;
+    width: 300px;
+    border-radius: 8px;
+    text-align: center;
+}
+.card h1{
+    margin: 0;
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+}
+.card p{
+    font-size: 15px;
+    color: black;
+}
+.res{
+    background-color: #90ee90;
+    border-radius: 8px;
+    text-align: center;
+}
