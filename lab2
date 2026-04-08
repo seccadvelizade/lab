@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register Page</title>
+</head>
+<body>
+    <h1>Register Page</h1>
+    <form action="" method="post">
+        <h2>Qeydiyyat</h2>
+    </form>
+    <label for="ad">Ad :</label>
+    <input type="text" id="ad" placeholder="Ad ">
+    <br>
+    <br>
+    <label for="Soyad">Soyad :</label>
+    <input type="text" id="Soyad" placeholder="Soyad">
+    <br>
+    <br>
+    <label for="Phone number">Telefon nomrəsi :</label>
+    <input type="number" id="Telefon nomrəsi" placeholder="Telefon nomrəsi">
+
+    <br>
+    <br>
+    <label for="Parol">Parol :</label>
+    <input type="password" id="parol" placeholder="Parol ">
+    <br>
+    <br>
+    <label>Universitet :</label>
+    <select>
+        <option value="">AzTU</option>
+        <option value="">UNEC</option>
+        <option value="">BANM</option>
+        <option value="">ADA</option>
+        <option value="">UFAZ</option>
+    </select>
+    <br>
+    <br>
+    <button type="submit">submit</button>
+    <br>
+    <br>
+    <table>
+        <tr>
+            <th>Ad</th>
+            <th>Soyad</th>
+            <th>Uni</th>
+        </tr>
+        <tr>
+            <td>Seccad</td>
+            <td>Velizade</td>
+            <td>AzTU</td>
+
+        </tr>
+        <tr>
+            <td>Mehemmed</td>
+            <td>Bagirov</td>
+            <td>UFAZ</td>
+        </tr>
+        <tr>
+            <td>Nadir</td>
+            <td>Babazade</td>
+            <td>ADA</td>
+        </tr>
+    </table>
+
+
+    
+
+</body>
+</html>
